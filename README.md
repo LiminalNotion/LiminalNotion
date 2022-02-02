@@ -7,7 +7,11 @@
 - 👯 I’m looking to collaborate on anything within my scope that will help me learn!
 - 🤔 I’m looking for help with any tips, tricks, or resources benefiting an amateur programmer / indie dev.
 - ⚡ Fun fact: I have never coded anything until December 2020!  Learning and having a blast!
--->
+
+
+
+
+![C#](https://user-images.githubusercontent.com/97632929/152251608-ac29b9b6-5db9-4203-9163-e6fc782fbd3e.png) ![UnityLogo](https://user-images.githubusercontent.com/97632929/152252601-e64301c7-8691-4d95-8767-8fc0b32eb749.png)
 
 
 
