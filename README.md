@@ -1,4 +1,6 @@
 ### Hi there, I'm Ryan - aka LiminalNotion 👋
+[![Discord](https://img.shields.io/discord/762212097592918016?label=Discord&logo=Discord)](https://discord.gg/YsKVkyGFyS)
+[![GitHub followers](https://img.shields.io/github/followers/LiminalNotion?label=Github%20Followers&logo=Github&style=social)](https://github.com/LiminalNotion)
 
 ##  I'm a husband, father, gamer and aspiring amateur game developer!
 
