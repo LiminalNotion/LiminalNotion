@@ -19,4 +19,7 @@
 ## Languages and Tools
 
 ![C#](https://user-images.githubusercontent.com/97632929/152251608-ac29b9b6-5db9-4203-9163-e6fc782fbd3e.png) ![UnityLogo](https://user-images.githubusercontent.com/97632929/152252601-e64301c7-8691-4d95-8767-8fc0b32eb749.png)
-[![Unity Essentials Badge](https://user-images.githubusercontent.com/97632929/152249200-7f538adb-8142-4e40-ba60-51ea9c06c0ca.png)](https://www.credly.com/badges/343c6c26-7923-4a5d-b2c3-e38943df59f0/public_url) [![Unity Junior Programmer Badge](https://user-images.githubusercontent.com/97632929/152249253-7b6aa742-5ffd-4cde-b762-b8a2f3732b8a.png)](https://www.credly.com/badges/bca27299-af04-422a-82db-d82b6aa27897/public_url)
+
+## Certifications
+
+[![Unity Essentials Badge](https://user-images.githubusercontent.com/97632929/152249200-7f538adb-8142-4e40-ba60-51ea9c06c0ca.png)](https://www.credly.com/badges/343c6c26-7923-4a5d-b2c3-e38943df59f0/public_url) [![Unity Junior Programmer Badge](https://user-images.githubusercontent.com/97632929/152249253-7b6aa742-5ffd-4cde-b762-b8a2f3732b8a.png)](https://www.credly.com/badges/bca27299-af04-422a-82db-d82b6aa27897/public_url) [![Unity Creative Core Badge](https://user-images.githubusercontent.com/97632929/154920701-14828e7c-b8e7-413f-b3fd-8bde884fc280.png)](https://www.credly.com/badges/2ab66539-3322-4bca-903c-49d56dc3076a/public_url)
